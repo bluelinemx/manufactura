@@ -1,0 +1,4 @@
+[submodule "bluelinemx/greencorp-test"]
+	path = bluelinemx/greencorp-test
+	url = git@github.com:bluelinemx/greencorp-test.git
+	branch = MRP-Prueba-final
